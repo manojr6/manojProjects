@@ -153,7 +153,7 @@ public class loginOrangeHRM1  {
 
 	@AfterTest
 	public void afterTest() throws InterruptedException {
-		
+		System.out.println("ecl to git test");
 		driver.quit(); 
 	}
 
