@@ -153,7 +153,7 @@ public class loginOrangeHRM1  {
 
 	@AfterTest
 	public void afterTest() throws InterruptedException {
-		System.out.println("back to normal1");
+		System.out.println("back to normal3");
 		driver.quit(); 
 	}
 
